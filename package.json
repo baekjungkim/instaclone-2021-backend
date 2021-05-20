@@ -1,0 +1,19 @@
+{
+  "name": "instaclone-2021",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baekjungkim/instaclone-2021-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/baekjungkim/instaclone-2021-backend/issues"
+  },
+  "homepage": "https://github.com/baekjungkim/instaclone-2021-backend#readme"
+}
